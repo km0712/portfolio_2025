@@ -38,19 +38,35 @@ WEBフロントエンド
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 参考動画(画質荒目ですが)
 RSSで取得した記事閲覧,RSS新規登録  
-|<video  src="https://github.com/km0712/portfolio_2024/assets/82639564/0fc9e93d-0d25-4f07-b0ea-be4661982a72">  |
+|<video  src="https://github.com/user-attachments/assets/cb0f4673-5e31-4f3e-9cb5-bcb6a46c14d2">  |
 
 
 記事閲覧  
-<video src="https://github.com/km0712/portfolio_2024/assets/82639564/e80e14c5-c77d-4877-a42b-7fd16e847fd0">  |
+<video src="https://github.com/user-attachments/assets/c4cc2fe3-bfea-401a-8b46-5ec0331e46fa">  |
 
 
 
 長押しでメニュー表示、サーバにある記事検索  
-<video src="https://github.com/km0712/portfolio_2024/assets/82639564/2853cf44-8d4d-421d-b274-b2114e2392ad"> |
+<video src="https://github.com/user-attachments/assets/4a99bc83-d880-4e71-9fbf-1aa854aac3d7"> |
 
 
 ブックマーク、履歴、サーバに保存されているRSS検索  
-<video src="https://github.com/user-attachments/assets/98903061-56df-405e-ad80-3843b72fb294">|
+<video src="https://github.com/user-attachments/assets/9909d473-f658-465f-aa40-b8f35b03c998">|
